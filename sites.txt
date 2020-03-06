@@ -1,0 +1,8 @@
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All#views-view-services-campus-poi-facilities-maps-listing-container
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All&page=1#views-view-services-campus-poi-facilities-maps-listing-container
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All&page=2#views-view-services-campus-poi-facilities-maps-listing-container
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All&page=3#views-view-services-campus-poi-facilities-maps-listing-container
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All&page=4#views-view-services-campus-poi-facilities-maps-listing-container
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All&page=5#views-view-services-campus-poi-facilities-maps-listing-container
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All&page=6#views-view-services-campus-poi-facilities-maps-listing-container
+https://services.anu.edu.au/campus-environment/facilities-maps?nid_entityreference_filter=All&field_building_occupant_types_tid_1=All&page=7#views-view-services-campus-poi-facilities-maps-listing-container
